@@ -1,6 +1,6 @@
 Privacy Policy
 
-Random Number is a Google Play Developer handle primarily operated by Ran Tao which provides Android apps.
+mikatao is a Google Play Developer handle primarily operated by Ran Tao which provides Android apps.
 
 This page is used to inform app users regarding our policies with the collection, use, and disclosure of personal information for anyone who decides to use our services.
 
